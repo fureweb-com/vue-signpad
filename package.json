@@ -1,0 +1,24 @@
+{
+  "name": "vue-signpad",
+  "version": "0.0.0",
+  "description": "Canvas based sign pad component for vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fureweb-com/vue-signpad.git"
+  },
+  "keywords": [
+    "vuejs",
+    "signpad",
+    "vue-signpad"
+  ],
+  "author": "FUREWEB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fureweb-com/vue-signpad/issues"
+  },
+  "homepage": "https://github.com/fureweb-com/vue-signpad#readme"
+}
